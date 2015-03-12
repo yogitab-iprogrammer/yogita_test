@@ -21,6 +21,7 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
                 echo "changes";
+                echo "changes for development branch";
 	}
 }
 
