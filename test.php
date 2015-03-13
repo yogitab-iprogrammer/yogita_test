@@ -23,6 +23,10 @@ class Welcome extends CI_Controller {
                 echo "changes";
                 echo "changes for development branch";
 	}
+        public function testcat()
+        {
+            echo "test something";
+        }
 }
 
 /* End of file welcome.php */
