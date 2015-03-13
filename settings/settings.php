@@ -6,7 +6,13 @@
  * and open the template in the editor.
  */
 echo "new file added for developement branch";
-
+echo "some changes to create conflict";
+function testconflict()
+{
+    
+    
+    
+}
 
 ?>
 
